@@ -1,0 +1,6 @@
+name: general
+parent: default
+
+matches:
+  - trigger: ":bio"
+    replace: "I'm just some guy who likes making and fixing things that usually involve a keyboard and/or a mouse."

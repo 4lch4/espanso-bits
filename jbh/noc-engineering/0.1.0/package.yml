@@ -1,0 +1,12 @@
+name: jbh-noc-engineering
+parent: default
+
+matches:
+  - trigger: ':jbh'
+    replace: 'J.B. Hunt'
+
+  - trigger: ':jem'
+    replace: 'Devin.Leaman@jbhunt.com'
+
+  - trigger: ':itr'
+    replace: 'https://itrequests.jbhunt.com/'

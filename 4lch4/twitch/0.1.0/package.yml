@@ -1,0 +1,66 @@
+name: twitch
+parent: default
+
+matches:
+  - trigger: ':hw'
+    replace: 'hello world'
+
+  - trigger: '!rbox'
+    replace: 'roxmBOX'
+
+  - trigger: '!rtom'
+    replace: 'roxmTommy'
+
+  - trigger: '!rnik'
+    replace: 'roxmNikki'
+
+  - trigger: '!rsm'
+    replace: 'roxmSmile'
+
+  - trigger: '!rlul'
+    replace: 'roxmLUL'
+
+  - trigger: '!rfire'
+    replace: 'roxmFire'
+
+  - trigger: '!raxe'
+    replace: 'roxmAxe'
+
+  - trigger: '!rhi'
+    replace: 'roxmHi'
+
+  - trigger: '!rcuh'
+    replace: 'roxmCUH'
+
+  - trigger: '!rwick'
+    replace: 'roxmWicked'
+
+  - trigger: '!rlurk'
+    replace: 'roxmLurk'
+
+  - trigger: '!rps'
+    replace: 'roxmPs'
+
+  - trigger: '!roo'
+    replace: 'roxmOO'
+
+  - trigger: '!rwo'
+    replace: 'roxmWO'
+
+  - trigger: '!row'
+    replace: 'roxmOW'
+
+  - trigger: '!rgun'
+    replace: 'roxmGun'
+
+  - trigger: '!rcozy'
+    replace: 'roxmCozy'
+
+  - trigger: '!rkek'
+    replace: 'roxmKEKW'
+
+  - trigger: '!rout'
+    replace: 'roxmGETOUT'
+
+  - trigger: '!rjar'
+    replace: 'roxmJar'
